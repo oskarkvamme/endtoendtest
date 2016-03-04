@@ -1,0 +1,9 @@
+{
+  "name": "endtoendtest",
+  "version": "1.0.0",
+  "author": "Oskar Kvamme",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^0.8.16"
+  }
+}
