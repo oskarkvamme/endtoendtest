@@ -34,6 +34,21 @@
         "javascriptEnabled": true,
         "acceptSslCerts": true
       }
+    },
+    "phantomjs": {
+      "desiredCapabilities" : {
+        "browserName" : "phantomjs",
+        "javascriptEnabled" : true,
+        "acceptSslCerts" : true,
+        "phantomjs.binary.path" : "./lib/phantomjs"
+      }
+    },
+    "firefox": {
+      "desiredCapabilities": {
+        "browserName": "firefox",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
+      }
     }
   }
 }
