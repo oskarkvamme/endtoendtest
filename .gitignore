@@ -1,2 +1,6 @@
 reports
+screenshots
 node_modules
+*.log
+
+credentials.js
